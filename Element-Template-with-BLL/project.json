@@ -1,0 +1,11 @@
+{
+    "title":"Element-Template-with-BLL",
+    "description":"This template can be used to create a basic Kinoma Element application with a device and simulator BLL.",
+    "id":"element.template.with.bll.project.kinoma.marvell.com",
+    "tags":[
+        "emptySample"
+    ],
+    "Element":{
+        "main":"main"
+    }
+}

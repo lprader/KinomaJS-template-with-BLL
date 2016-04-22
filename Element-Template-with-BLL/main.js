@@ -1,0 +1,2 @@
+import Pins from 'pins';var main = {	onLaunch(){		Pins.configure({			sensorName: {				require: "bll",				pins: { 					sensor: { pin: 1 }				}			}		}, success => {			if (success) {
+		    	// After the BLLs have been configured, issue single/repeated commands to the BLL			} else {				trace("Failed to configure pins.\n");			}		});	},};export default main;

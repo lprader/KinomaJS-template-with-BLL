@@ -9,7 +9,7 @@
 
 exports.pins = {
 	// Define the types of pins used by this BLL
-	sensor: {type: ""} // type should be "Digital", "Analog", "PWM", etc.
+	sensor: { type: "" } // type should be "Digital", "Analog", "PWM", etc.
 }
 
 exports.configure = function() {
