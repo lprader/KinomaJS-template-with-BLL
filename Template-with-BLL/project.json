@@ -1,6 +1,6 @@
 {
     "title":"Template-with-BLL",
-    "description":"This template can be used to create a basic KinomaJS application with a device and simulator BLL.",
+    "description":"This template can be used to create a basic Kinoma Create application with a device and simulator BLL.",
     "id":"template.with.bll.project.kinoma.marvell.com",
     "tags":[
         "emptySample"
